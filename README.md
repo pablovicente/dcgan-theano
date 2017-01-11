@@ -41,7 +41,7 @@ python dcgan.py
 
 ## Demonstration
 
-![Scheme](animation/dcgans_progress.png)
+![Scheme](images/dcgans_progress.png)
 
 ## References
 
