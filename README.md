@@ -45,5 +45,8 @@ python dcgan.py
 
 ## References
 
+This code is based on the original dcgan code and a dcgan autoencoder. 
+
 [1] https://github.com/Newmu/dcgan_code
+
 [2] https://github.com/mikesj-public/dcgan-autoencoder
